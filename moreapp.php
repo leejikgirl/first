@@ -1,6 +1,23 @@
 [
 
 {
+	"name": "지브리 배경화면",
+	"eng" : "Ghibli Picture HD Wallpaper",
+        "category": "Best",
+	"rating": 5.0,
+	"package_name": "com.leejikgirl.ghibil_wallpaper",
+	"image": "https://play-lh.googleusercontent.com/zFF9ou_muE1SBl4xepsH1qWukVQjBNtTe6V7lHGqVTIFkV-I5j_nLjPIw1SLvFqWmps=w480-h960-rw"
+},
+{
+	"name": "지브리 배경화면",
+	"eng" : "Ghibli Picture HD Wallpaper",
+        "category": "Wallpaper",
+	"rating": 5.0,
+	"package_name": "com.leejikgirl.ghibil_wallpaper",
+	"image": "https://play-lh.googleusercontent.com/zFF9ou_muE1SBl4xepsH1qWukVQjBNtTe6V7lHGqVTIFkV-I5j_nLjPIw1SLvFqWmps=w480-h960-rw"
+},
+
+{
 	"name": "갬성갤러리 - 인스타그램, 핀터레스트 감성 배경화면",
 	"eng" : "갬성갤러리 - 인스타그램, 핀터레스트 감성 배경화면",
         "category": "Best",
